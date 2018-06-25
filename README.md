@@ -1,3 +1,2 @@
 # exercise-repo
-blahblah
-hahahha
+I just resolved the conflict!
